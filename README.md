@@ -7,7 +7,7 @@
 
 This repository contains a Python implementation of a simple student management system designed to manage student records efficiently. It allows users to add, update, delete, and view student information. This README provides instructions on how to run the system and highlights the changes made to the original code.
 
-### Features
+## Features
 
 * Add new students with ID, name, age, and major.
 * Update existing student information.
@@ -16,9 +16,9 @@ This repository contains a Python implementation of a simple student management 
 * Interactive menu for user-friendly navigation.
 
 
-### Running the System
+## Running the System
   
-  Prerequisites
+###  Prerequisites:
 
     Python 3.x installed on your machine.
 
