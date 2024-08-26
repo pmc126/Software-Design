@@ -8,14 +8,10 @@ This repository contains a Python implementation of a simple student management 
 
 
 ## Running the System
-  
 ###  Prerequisites:
-
     Python 3.x installed on your machine.
-  Ensure Python is installed on your PC. You can download it from the [official Python website](https://www.python.org/downloads/)
-
+- Ensure Python is installed on your PC. You can download it from the [official Python website](https://www.python.org/downloads/)
 ### Steps to Run
-
 - Clone the Repository:
 
        git clone https://github.com/pmc126/Software-Design.git
