@@ -1,7 +1,6 @@
-# Software Design
- * Assignment 2
+# Software Design principles - Assignment 2
 
- # Student Management System
+## Student Management System
 
 ### Overview
 
@@ -39,7 +38,7 @@ This repository contains a Python implementation of a simple student management 
 
 ## Code Changes
 
-The code has been updated to improve efficiency, maintainability, and adheres to software design principles. Also, the refactored code provides a more efficient and maintainable implementation of the student management system. It also includes a menu-driven interface for interacting with the system.
+The Student Management System has been updated to improve its efficiency, maintainability, and adherence to software design principles. The refactored code provides a more efficient and maintainable implementation of the student management system and includes a menu-driven interface for interacting with the system.
 
 ### Class Student
 
