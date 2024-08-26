@@ -22,7 +22,7 @@ This repository contains a Python implementation of a simple student management 
       
 2. Run the Application: Open a terminal and execute the following command:
 
-        python student_management_system.py
+        student_Management_System.py
 
 4. Follow the Menu:
 
