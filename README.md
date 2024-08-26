@@ -26,9 +26,7 @@ This repository contains a Python implementation of a simple student management 
         python student_Management_System.py
 
 4. Follow the Menu:
-
-   - Once the application is running, follow the on-screen menu to add, update, delete, or view student records.
-    You will see the menu like this:
+  - Once the application is running, follow the on-screen menu to add, update, delete, or view student records. You will see the menu like this:
 
          Student Management System Menu:
           1. Add Student
@@ -36,7 +34,7 @@ This repository contains a Python implementation of a simple student management 
           3. Update Student Info
           4. View All Students
           5. Quit
-   - Enter the number corresponding to your choice and follow the prompts.
+ - Enter the number corresponding to your choice and follow the prompts.
 
 ## Code Changes
 
